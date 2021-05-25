@@ -1,0 +1,1 @@
+This is a social media app using the MERN (MongoDB, Express, React, Node.js) stack. The tutorial for the app came from Traversy Media and can be found at https://www.udemy.com/course/mern-stack-front-to-back/
