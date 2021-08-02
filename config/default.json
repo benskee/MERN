@@ -1,5 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://benskee:Muchomongo@cluster0.a9fxr.mongodb.net/MERN?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken",
-    "githubToken": "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"
-}
